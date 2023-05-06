@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="phone"> Enter Phone Number</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="okay">Okay</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="str_intro_text">See what\'s happening in the world right now</string>
+    <string name="str_create_account">Create account</string>
+    <string name="str_have_account">Have an account already?</string>
+
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_here">Sing up here</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? <u>Login Here</u></string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="as_a_user">As a User</string>
+    <string name="login">Log In</string>
+    <string name="don_t_have_an_account_sign_up_here"><u>Create new Account</u></string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="what_s_happening">What\'s happening</string>
+    <string name="tweet">Tweet</string>
+    <string name="new_to_tweeter">New to Twitter?</string>
+    <string name="navigation_drawer_open">opn</string>
+    <string name="navigation_drawer_close">clos</string>
+    <string name="not_able_to_open">notopen</string>
+
+    <style name="Toolbar">
+        <item name="android:textColorSecondary">@color/twitterBlue</item>
+    </style>
+</resources>
