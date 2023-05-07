@@ -1,7 +1,7 @@
 # TwitterSeniorProjec
 ## Introduction
 
-The Twitter Senior Project is an open-source initiative with the goal of recreating the genuine twitter experience. The project is developed in JavaScript and makes use of a number of libraries and software packages that are included in the android studio program and firebase. The project is open for usage, modification, and contribution. This GitHub repo contains all the code required for the frontend and the backend. The objectives of this project are:
+The Twitter Senior Project is an open-source initiative with the goal of recreating the genuine twitter experience. The project is developed in JavaScript and Kotlin. Makes use of a number of libraries and software packages that are included in the android studio program and firebase. The project is open for usage, modification, and contribution. This GitHub repo contains all the code required for the frontend and the backend. The objectives of this project are:
 + Account creation and login functionality.
 +Allows for posting, viewing, and editing tweets.
 + Share posts with others outside of the platform.
