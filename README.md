@@ -1,4 +1,13 @@
 # TwitterSeniorProjec
+
+![Get started in Canva](https://user-images.githubusercontent.com/91695754/236697952-e5d0b3e8-2cbf-496b-9f70-d9fe5548c45b.jpg)
+
+
+
+
+
+
+
 ## Introduction
 
 The Twitter Senior Project is an open-source initiative with the goal of recreating the genuine twitter experience. The project is developed in JavaScript and Kotlin. Makes use of a number of libraries and software packages that are included in the android studio program and firebase. The project is open for usage, modification, and contribution. This GitHub repo contains all the code required for the frontend and the backend. The objectives of this project are:
