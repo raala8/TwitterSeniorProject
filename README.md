@@ -36,4 +36,6 @@ The scripts used in the Twitter Senior Project each carry out a distinct task. I
 To assure the quality and dependability of the data, the Twitter Senior Project has undergone a thorough testing process. To make sure that the frontend and backend work reliably, our team made several accounts and have rigorously tweaked and updated all features included in the app.
 
 There are several interesting insights into Twitter patterns and behavior that have come from the Twitter Senior Project. Our main insights have come in the form of seeing first hand how these social media apps use a variety of techniques to implement a variety of features and maintain a positive overall experience for users.
+
+
 ![TwitterDemo](https://user-images.githubusercontent.com/91695754/236690228-cfc64114-0515-4fe9-b3c8-b488971835ec.gif)
