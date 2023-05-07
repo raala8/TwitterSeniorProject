@@ -38,4 +38,6 @@ To assure the quality and dependability of the data, the Twitter Senior Project 
 There are several interesting insights into Twitter patterns and behavior that have come from the Twitter Senior Project. Our main insights have come in the form of seeing first hand how these social media apps use a variety of techniques to implement a variety of features and maintain a positive overall experience for users.
 
 
-![TwitterDemo](https://user-images.githubusercontent.com/91695754/236690228-cfc64114-0515-4fe9-b3c8-b488971835ec.gif)
+![TwitterDemoo](https://user-images.githubusercontent.com/91695754/236691214-c32e2836-9331-4eb6-8697-f76c3ab2d933.gif)
+
+
